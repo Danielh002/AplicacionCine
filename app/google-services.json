@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94930096913",
+    "firebase_url": "https://aplicacioncine.firebaseio.com",
+    "project_id": "aplicacioncine",
+    "storage_bucket": "aplicacioncine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94930096913:android:90da1c038c930b7c",
+        "android_client_info": {
+          "package_name": "com.example.daniel.aplicacioncine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94930096913-1s51ss6op2892mp96ctcvg7b4le52pth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmuRsNDn5C7rv3tLkVzuVeuauwHxreBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
